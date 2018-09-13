@@ -6,4 +6,5 @@ This is a team repo for members of the team {Team ID}
 * [John Doe](members/johnDoe.md)
 * [Zhang YeZhong](members/Yezhong.md)
 * [Daniel](members/daniel.md)
+* [He Xinyi](members/Xinyi.md)
 
